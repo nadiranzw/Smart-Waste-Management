@@ -21,8 +21,8 @@ DallasTemperature sensors(&oneWire);
 
 
 // ------------WiFi------------
-const char* ssid = "Ssstttt";
-const char* password = "buatapa?";
+const char* ssid = "(put ur id wifi here)";
+const char* password = "(put ur pass wifi here)";
 const char* mqtt_server = "ee.unsoed.ac.id";
 
 String ip;

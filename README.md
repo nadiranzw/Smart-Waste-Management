@@ -1,9 +1,10 @@
 # Smart Waste Management
-We developed a mechanism and a prototype of a shredder waste machine to chop organic and plastic waste based on Internet of Things (IoT). The motor control mechanism isn't fully worked out yet, so we really appreciate it if you can help us to fix it :D
+We developed a mechanism and a prototype of a shredder waste machine to chop organic and plastic waste based on Internet of Things (IoT). The motor control mechanism isn't fully worked out yet, so we would really appreciate it if you could help us fix it :D
 
 ### Our Team
 - Adhian Firdausi Susanto as Hardware Electrical & Mechanical ➡️
   [LinkedIn](https://www.linkedin.com/in/adhian-f-60a5aa112/)
+  [Github](https://github.com/adhianfs)
 - Nadira Nazwa Azzahra as Hardware Programming ➡️
   [LinkedIn](https://www.linkedin.com/in/nadira-nazwa-azzahra/)
   [Github](https://github.com/nadiranzw)
